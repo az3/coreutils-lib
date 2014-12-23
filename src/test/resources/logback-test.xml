@@ -6,7 +6,7 @@
             <immediateFlush>true</immediateFlush>
         </encoder>
     </appender>
-    <root level="INFO">
+    <root level="DEBUG">
         <appender-ref ref="ConsoleLog"/>
     </root>
 </configuration>
